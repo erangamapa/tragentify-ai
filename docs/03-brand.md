@@ -24,7 +24,7 @@ Lowercase after the first word. Title-casing “Agentic Trading” makes it read
 
 Primary
 
-> Tragentify is not a call group blasting tickers at five thousand people, or a wallet tracker that copies strangers into rugs. It’s your private team of agents for degen trading on Robinhood Chain — seconds-old launches, memecoins, whatever’s moving. They run on your rules.
+> Tragentify is not a call group blasting tickers or a wallet tracker that copies strangers into rugs. It’s your private team of agents for degen trading on Robinhood Chain — seconds-old launches, memecoins, whatever’s moving. They run on your rules.
 
 Short
 
