@@ -2,7 +2,7 @@
 
 **The agentic trading that was promised.**
 
-Tragentify is not a call group blasting tickers at five thousand strangers, and not a wallet tracker that copies someone you've never met straight into getting rugged. It's your own team of expert agents for degen trading on Robinhood Chain — seconds-old launches, memecoins, whatever's moving — in a private channel that's yours alone. They run on your rules, not ours: you set the mandate, and they refuse trades that break it, including when you're the one asking. Advise or execute, your call, revocable in one message. Most days they'll tell you there's nothing worth buying.
+Tragentify is not a call group blasting tickers at five thousand people, and not a wallet tracker that copies strangers into rugs. It's your private team of agents for degen trading on Robinhood Chain — seconds-old launches, memecoins, whatever's moving. They run on your rules: you set the mandate, and they refuse trades that break it, including when you're the one asking. Advise or execute, revocable in one message. Most days they'll tell you there's nothing worth buying.
 
 ---
 
