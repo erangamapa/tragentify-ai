@@ -2,7 +2,7 @@
 
 *Tragentify · tragentify.ai · Product Requirements v0.3*
 
-A private team of agents in the room with you, helping you make the best trades on whatever you ask about — instead of you wading through the noise across call groups and crypto Twitter.
+Your private team of agents, making the best trades on your rules — instead of you wading through the noise across call groups and crypto Twitter.
 
 **Status** Ready to build · **Date** 11 Sep 2026 · **Scope** MVP through Book C · **Owner** Founder
 
@@ -12,9 +12,9 @@ A private team of agents in the room with you, helping you make the best trades 
 
 Forty Telegram groups, hundreds of accounts on X, paid Discords, launches every minute, threads where the useful part is the fourteenth reply, screenshots instead of addresses. Keeping up with it is a full-time job and people still lose — they miss the one that mattered because they were asleep, buy the loud one because it is the one they saw, size wrong, and never write down why they bought it.
 
-Tragentify puts **a private team of agents in the room with you**. You ask; they help you make the best trades on what you asked for — instead of you wading through the noise across call groups and crypto Twitter. Ask about a token, about what is moving, about anything matching criteria in your head — the agents have the whole picture and answer in seconds. They also bring things forward unprompted when they are worth your attention.
+Tragentify is **your private team of agents, making the best trades on your rules** — instead of you wading through the noise across call groups and crypto Twitter. Ask them anything, or let them bring things to you. They have the whole picture; you set the rules they work to.
 
-> **The room is the product.** A team that already has the whole picture, sitting with you, answering what you actually want to know. Every capability in this document exists to make that room worth being in — not to filter a feed, and not to tell anyone what to buy.
+> **The team is the product.** Not a feed, not a filter, not a signals service. Every capability in this document exists to make that team worth having.
 
 ### How it stays early
 
@@ -22,7 +22,7 @@ A mechanism, not the product. Every token spreads along a curve — a few source
 
 ### Acceptance test
 
-One question for any proposed feature: **does it make the room more useful to be in?** Either it answers something a user would otherwise go hunting for, or it brings them something worth knowing. A feature that does neither is not part of this product, however interesting it is.
+One question for any proposed feature: **does it make the team more useful to have?** Either it answers something a user would otherwise go hunting for, or it brings them something worth knowing. A feature that does neither is not part of this product, however interesting it is.
 
 - **DEF-1** — One private channel per user. Never a shared broadcast channel.
 - **DEF-2** — Every recommendation is weighed against that user's mandate, stated risk appetite and existing exposure. Generic calls broadcast identically to everyone are prohibited.

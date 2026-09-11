@@ -4,11 +4,11 @@ Read this first, then `docs/01-requirements.md` and `docs/02-implementation-plan
 
 ## What this is
 
-Tragentify puts **a private team of agents in the room with you**. You ask; they help you make the best trades on what you asked about — instead of wading through the noise across call groups and crypto Twitter.
+Tragentify is **your private team of agents, making the best trades on your rules** — instead of wading through the noise across call groups and crypto Twitter.
 
 Delivered as a private Telegram channel per user, on **Robinhood Chain** (`4663`). MVP is **advisory**: the agents research, argue and call; the user trades. Execution comes in P4.
 
-**The room is the product.** A team that already has the whole picture, sitting with you, answering what you actually want to know. If copy or a feature drifts toward "we filter the feed better than the other guys," it has lost the plot — that framing has been rejected explicitly and more than once.
+**The team is the product** — not a feed, not a filter, not a signals service. If copy or a feature drifts toward "we filter the feed better than the other guys," it has lost the plot; that framing has been rejected explicitly and more than once.
 
 Nothing is built. The two docs are the complete specification and they were argued through in detail — treat them as decided, not as suggestions.
 

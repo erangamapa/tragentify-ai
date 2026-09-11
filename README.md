@@ -14,13 +14,13 @@ Forty Telegram groups. Two hundred accounts on X. Discord servers you pay for. L
 
 ## What Tragentify is
 
-**A private team of agents in the room with you.**
+**Your private team of agents, making the best trades on your rules.**
 
-You ask; they help you make the best trades on what you asked about — instead of you wading through the noise across call groups and crypto Twitter.
+Instead of you wading through the noise across call groups and crypto Twitter.
 
-They're watching your sources and the chain continuously: every tweet, every group message, every launch, screenshots included. So when you ask about a token, or what's moving, or anything matching criteria in your head, they already have the whole picture and answer in seconds.
+They watch your sources and the chain continuously — every tweet, every group message, every launch, screenshots included. Ask them anything, or let them bring things to you. They have the whole picture; you set the rules they work to.
 
-They also bring things forward unprompted when something's worth your attention — and stay quiet the rest of the time, which is most days.
+And they stay quiet the rest of the time, which is most days.
 
 ## How it behaves
 
