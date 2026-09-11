@@ -2,7 +2,7 @@
 
 *Tragentify · tragentify.ai · Product Requirements v0.3*
 
-A team of agents running one person's fund. They watch social and on-chain flow in real time, argue in a private channel, and tag the owner only when a decision is actually needed. The product alerts while a token is still quiet and suppresses it once it's loud.
+A private team of agents that reads everything a degen trader would have to read — forty groups, hundreds of accounts, every launch — and returns decisions instead of information. It works to rules the user sets, calls the exit as hard as the entry, and stays quiet on the days there is nothing worth buying.
 
 **Status** Ready to build · **Date** 11 Sep 2026 · **Scope** MVP through Book C · **Owner** Founder
 
@@ -10,13 +10,19 @@ A team of agents running one person's fund. They watch social and on-chain flow 
 
 ## 01. Product definition
 
-A private group chat per user. The user is the principal; the agents are the desk. The desk originates opportunities, sizes them against that user's book, executes or recommends per mandate, monitors exits, and reports outcomes.
+**Degen trading is an information problem before it is a trading problem.** Forty Telegram groups, hundreds of accounts on X, paid Discords, launches every minute, threads where the useful part is the fourteenth reply, and screenshots instead of addresses. No one can process that volume fast enough to act well — so people miss the one that mattered, buy the loud one because it is the one they saw, size wrong, and never write down why they bought it.
 
-> **The differentiating mechanic.** The system classifies where a token sits on its propagation curve — alpha groups, then mid-tier groups, then CT, then mass — and only speaks while it is early. Loud tokens are actively suppressed. Call groups alert when something is loud because loud is easy to detect. This inverts that.
+Tragentify is **a private team of agents per user that reads all of it and returns decisions rather than information** — what is worth buying, why now, how much against the rules that user set, and when to get out. The user is the principal; the agents are the desk. The desk also stays quiet, which is most days.
+
+> **The job is digestion, not detection.** Finding tokens is easy — the chain lists every one of them. The hard part is deciding which of the thousands deserve a human's attention, and saying so fast enough to matter. Everything in this document exists to compress an unmanageable stream into a handful of decisions a person can actually act on.
+
+### How it stays early
+
+A mechanism, not the product. Every token spreads along a curve — a few sources, then many, then everyone. The desk measures where a token sits on that curve and speaks while it is still early, staying silent once something is already everywhere. That is what lets it be useful in the window where acting still pays, rather than confirming what a user has already seen five times.
 
 ### Acceptance test
 
-Any feature that could equally ship in a Telegram call group is not differentiating. The four structural differences are: per-user sizing against an existing book, an incentive to abstain, the ability to refuse the user, and closing the loop on losses.
+Two questions for any proposed feature: **does it reduce what the user has to read**, or **does it improve the quality of a decision they were going to make anyway?** A feature that does neither is not part of this product, however interesting it is.
 
 - **DEF-1** — One private channel per user. Never a shared broadcast channel.
 - **DEF-2** — Every recommendation is weighed against that user's mandate, stated risk appetite and existing exposure. Generic calls broadcast identically to everyone are prohibited.

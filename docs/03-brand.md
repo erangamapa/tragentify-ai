@@ -4,7 +4,7 @@
 
 Name, tagline and description — settled. Everything else here is parked for a later pass.
 
-**Status** Copy locked, identity open · **Date** 10 Sep 2026 · **Companion to** Requirements v0.2 · Build Plan v0.5
+**Status** Copy locked, identity open · **Date** 11 Sep 2026 · **Companion to** Requirements v0.3 · Build Plan v0.6
 
 ---
 
@@ -36,6 +36,10 @@ One line
 
 ## 03. Positioning
 
+**The problem:** degen trading is an information problem before it is a trading problem. Forty groups, hundreds of accounts, launches every minute, most of it noise. Nobody can process that fast enough to act well — so they miss the one that mattered, or buy the loud one because it is the one they saw.
+
+**The product:** a private team of expert agents that reads all of it and hands back decisions instead of information. Lead with that. The is-and-isn’t lists below exist to stop the copy drifting, not to define the product against competitors.
+
 **What it is not**
 
 - A call group blasting the same ticker at five thousand people
@@ -48,11 +52,13 @@ One line
 
 **What it is**
 
+- **Reads everything so the user does not have to** — the whole point
 - A private team of expert agents, one channel per person
 - Built for degen trading — fresh launches and memecoins
 - Running the user’s mandate, not ours
 - Willing to refuse the user their own bad idea
 - Advisory or executing, switchable, revocable in one message
+- Hands back decisions, not information
 - Quiet by default — it speaks when it matters
 - Publishing its losses alongside its wins
 
