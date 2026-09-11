@@ -38,7 +38,7 @@ One line
 
 **The problem:** degen trading is an information problem before it is a trading problem. Forty groups, hundreds of accounts, launches every minute, most of it noise. Nobody can process that fast enough to act well — so they miss the one that mattered, or buy the loud one because it is the one they saw.
 
-**The product:** a private team of expert agents that reads all of it and hands back decisions instead of information. Lead with that. The is-and-isn’t lists below exist to stop the copy drifting, not to define the product against competitors.
+**The product:** a private team of agents in the room with you, helping you make the best trades on what you ask about — instead of wading through the noise across call groups and crypto Twitter. Lead with that. The is-and-isn’t lists below exist to stop the copy drifting, not to define the product against competitors.
 
 **What it is not**
 
@@ -52,13 +52,14 @@ One line
 
 **What it is**
 
-- **Reads everything so the user does not have to** — the whole point
+- **A team that already has the whole picture** — the whole point
 - A private team of expert agents, one channel per person
 - Built for degen trading — fresh launches and memecoins
 - Running the user’s mandate, not ours
 - Willing to refuse the user their own bad idea
 - Advisory or executing, switchable, revocable in one message
-- Hands back decisions, not information
+- **In the room with you** — you ask, they answer
+- Covers the noise so you never have to wade through it
 - Quiet by default — it speaks when it matters
 - Publishing its losses alongside its wins
 

@@ -4,11 +4,11 @@ Read this first, then `docs/01-requirements.md` and `docs/02-implementation-plan
 
 ## What this is
 
-**Degen trading is an information problem before it is a trading problem.** Forty Telegram groups, hundreds of accounts on X, paid Discords, launches every minute, most of it noise. Nobody can process that fast enough to act well.
+Tragentify puts **a private team of agents in the room with you**. You ask; they help you make the best trades on what you asked about — instead of wading through the noise across call groups and crypto Twitter.
 
-Tragentify is **a private team of agents per user that reads all of it and returns decisions instead of information** — what is worth buying, why now, how much against the rules that user set, and when to get out. Delivered in a private Telegram channel per user, on **Robinhood Chain** (`4663`). MVP is **advisory**: the desk researches, argues and calls; the user trades. Execution comes in P4.
+Delivered as a private Telegram channel per user, on **Robinhood Chain** (`4663`). MVP is **advisory**: the agents research, argue and call; the user trades. Execution comes in P4.
 
-**Frame it as digestion, not detection.** Finding tokens is trivial — the chain lists every one. The product is deciding which of thousands deserve a person's attention and saying so fast enough to matter. If copy or a feature drifts toward "we filter better than the other guys," it has lost the plot.
+**The room is the product.** A team that already has the whole picture, sitting with you, answering what you actually want to know. If copy or a feature drifts toward "we filter the feed better than the other guys," it has lost the plot — that framing has been rejected explicitly and more than once.
 
 Nothing is built. The two docs are the complete specification and they were argued through in detail — treat them as decided, not as suggestions.
 

@@ -2,7 +2,7 @@
 
 *Tragentify · tragentify.ai · Product Requirements v0.3*
 
-A private team of agents that reads everything a degen trader would have to read — forty groups, hundreds of accounts, every launch — and returns decisions instead of information. It works to rules the user sets, calls the exit as hard as the entry, and stays quiet on the days there is nothing worth buying.
+A private team of agents in the room with you, helping you make the best trades on whatever you ask about — instead of you wading through the noise across call groups and crypto Twitter.
 
 **Status** Ready to build · **Date** 11 Sep 2026 · **Scope** MVP through Book C · **Owner** Founder
 
@@ -10,11 +10,11 @@ A private team of agents that reads everything a degen trader would have to read
 
 ## 01. Product definition
 
-**Degen trading is an information problem before it is a trading problem.** Forty Telegram groups, hundreds of accounts on X, paid Discords, launches every minute, threads where the useful part is the fourteenth reply, and screenshots instead of addresses. No one can process that volume fast enough to act well — so people miss the one that mattered, buy the loud one because it is the one they saw, size wrong, and never write down why they bought it.
+Forty Telegram groups, hundreds of accounts on X, paid Discords, launches every minute, threads where the useful part is the fourteenth reply, screenshots instead of addresses. Keeping up with it is a full-time job and people still lose — they miss the one that mattered because they were asleep, buy the loud one because it is the one they saw, size wrong, and never write down why they bought it.
 
-Tragentify is **a private team of agents per user that reads all of it and returns decisions rather than information** — what is worth buying, why now, how much against the rules that user set, and when to get out. The user is the principal; the agents are the desk. The desk also stays quiet, which is most days.
+Tragentify puts **a private team of agents in the room with you**. You ask; they help you make the best trades on what you asked for — instead of you wading through the noise across call groups and crypto Twitter. Ask about a token, about what is moving, about anything matching criteria in your head — the agents have the whole picture and answer in seconds. They also bring things forward unprompted when they are worth your attention.
 
-> **The job is digestion, not detection.** Finding tokens is easy — the chain lists every one of them. The hard part is deciding which of the thousands deserve a human's attention, and saying so fast enough to matter. Everything in this document exists to compress an unmanageable stream into a handful of decisions a person can actually act on.
+> **The room is the product.** A team that already has the whole picture, sitting with you, answering what you actually want to know. Every capability in this document exists to make that room worth being in — not to filter a feed, and not to tell anyone what to buy.
 
 ### How it stays early
 
@@ -22,7 +22,7 @@ A mechanism, not the product. Every token spreads along a curve — a few source
 
 ### Acceptance test
 
-Two questions for any proposed feature: **does it reduce what the user has to read**, or **does it improve the quality of a decision they were going to make anyway?** A feature that does neither is not part of this product, however interesting it is.
+One question for any proposed feature: **does it make the room more useful to be in?** Either it answers something a user would otherwise go hunting for, or it brings them something worth knowing. A feature that does neither is not part of this product, however interesting it is.
 
 - **DEF-1** — One private channel per user. Never a shared broadcast channel.
 - **DEF-2** — Every recommendation is weighed against that user's mandate, stated risk appetite and existing exposure. Generic calls broadcast identically to everyone are prohibited.

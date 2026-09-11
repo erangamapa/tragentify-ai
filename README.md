@@ -6,29 +6,25 @@ Tragentify is not a call group blasting tickers at five thousand strangers, and 
 
 ---
 
-## The problem it solves
-
-Degen trading is an information problem before it's a trading problem.
+## The noise you're trading against
 
 Forty Telegram groups. Two hundred accounts on X. Discord servers you pay for. Launches every minute, most of them rugs. Threads where the useful part is the fourteenth reply. Screenshots instead of contract addresses. Alpha that's only alpha for ninety seconds.
 
-**Staying on top of it is a full-time job, and people still lose.** They miss the one that mattered because they were asleep, or in a meeting, or three groups over. They buy the loud one because that's the one they saw. They size wrong, hold too long, and never write down why they bought it.
+**Keeping up with it is a full-time job, and people still lose.** They miss the one that mattered because they were asleep, or in a meeting, or three groups over. They buy the loud one because that's the one they saw. They size wrong, hold too long, and never write down why they bought it.
 
-The problem isn't a shortage of information. It's that nobody can process the volume fast enough to act well.
+## What Tragentify is
 
-## What Tragentify does
+**A private team of agents in the room with you.**
 
-**It reads everything, and hands you decisions instead of information.**
+You ask; they help you make the best trades on what you asked about — instead of you wading through the noise across call groups and crypto Twitter.
 
-Your desk of agents watches your sources and the chain continuously — every tweet, every group message, every launch, screenshots included. It digests all of it and comes back with the handful actually worth your money: what it is, why now, how much given your rules, and when to get out.
+They're watching your sources and the chain continuously: every tweet, every group message, every launch, screenshots included. So when you ask about a token, or what's moving, or anything matching criteria in your head, they already have the whole picture and answer in seconds.
 
-And it stays quiet the rest of the time. Most days it tells you there's nothing worth buying, which is the honest answer and the one nobody else will give you.
-
-**You stop drinking from the firehose. The desk does that for you.**
+They also bring things forward unprompted when something's worth your attention — and stay quiet the rest of the time, which is most days.
 
 ## How it behaves
 
-- **Ask it anything.** Paste a contract and get a verdict in seconds. Ask for tokens matching whatever criteria are in your head. Ask what it killed today and why.
+- **Ask them anything.** Paste a contract and get a verdict in seconds. Ask for tokens matching whatever criteria are in your head. Ask what they looked at today and passed on.
 - **It knows your rules.** You write a mandate once — how aggressive, what's off-limits, how much you'll risk. Every call cites it, and it refuses trades that break it even when you're the one asking.
 - **It calls the exit as hard as the entry.** Every position carries a thesis and an invalidation, watched continuously. Liquidity moves at 3am and you hear about it.
 - **You choose how much to hand over.** Tell me and I'll trade it myself · act but ask first · act and report back. Changeable any time, revocable in one message.
@@ -66,7 +62,7 @@ These are load-bearing. Breaking any of them breaks the product or the business.
 - **`REL-1` — exits survive a total LLM outage.** Exit monitoring, stops and kill switches are deterministic code with no model dependency. Someone is holding a position; the desk going quiet is not acceptable.
 - **`DESK-1` — the risk engine is code, not a model.** Anything that can be talked out of a limit is not a risk manager.
 - **`MEM-1` / `SEC-7` — private-source isolation.** Signal from a user's private group never reaches another user. Enforced in the data model, with a build-failing test.
-- **`DEF-3` — the desk must be able to say nothing.** "Nothing cleared the bar today" is the product working, and it is the message no incentive-aligned competitor can send.
+- **`DEF-3` — the desk must be able to say nothing.** "Nothing worth your attention today" is the product working. No one whose revenue depends on activity can send that message.
 
 ## Build order
 
