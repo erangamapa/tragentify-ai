@@ -22,17 +22,7 @@ Lowercase after the first word. Title-casing “Agentic Trading” makes it read
 
 ## 02. Description
 
-Primary
-
-> Tragentify is not a call group blasting tickers or a wallet tracker that copies strangers into rugs. It’s your private team of agents for degen trading — new launches, memecoins, whatever’s moving. They run on your rules.
-
-Short
-
-> Not a call group. Not a wallet tracker. Not another way to get rugged. Tragentify is your private team of agents for degen trading, running your rules.
-
-One line
-
-> Your private agent team for degen trading, running your rules.
+> Not another call group or wallet tracker to get rugged. Tragentify is your private agent team for trading new launches, memecoins and whatever moving. They run your rules, your sources, advise, and trade with your consent.
 
 ## 03. Positioning
 
